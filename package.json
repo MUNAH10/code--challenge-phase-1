@@ -1,0 +1,22 @@
+{
+  "name": "code--challenge-phase-1",
+  "version": "1.0.0",
+  "description": "code-challenge phase-1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MUNAH10/code--challenge-phase-1.git"
+  },
+  "author": "muna hassan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MUNAH10/code--challenge-phase-1/issues"
+  },
+  "homepage": "https://github.com/MUNAH10/code--challenge-phase-1#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
