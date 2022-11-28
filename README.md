@@ -5,7 +5,7 @@ Code Challenge
 
 
 ## Description
-
+when you want to run test on this project run node index.js you will be prompted to enter your value then press enter to view your results ot the test
 
 
 ## Authors
