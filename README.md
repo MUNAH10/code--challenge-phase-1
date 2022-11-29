@@ -14,6 +14,9 @@ when you want to run test on this project run node index.js you will be prompted
 
 
 ##  Project Setup
+
+##Running and Testing
+
 For you to run this project on your machine you need to install npm and node js.
 
 In your terminal install the following modules:
